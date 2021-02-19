@@ -1,0 +1,3 @@
+[submodule "profiles"]
+	path = profiles
+	url = git@gitlab.com:chrystian14/profiles.git
